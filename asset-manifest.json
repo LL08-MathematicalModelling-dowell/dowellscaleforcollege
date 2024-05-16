@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dowellscaleforcollege/static/css/main.a0f45dce.css",
-    "main.js": "/dowellscaleforcollege/static/js/main.712e00a8.js",
+    "main.js": "/dowellscaleforcollege/static/js/main.a80289b5.js",
     "static/js/453.dbfea1b7.chunk.js": "/dowellscaleforcollege/static/js/453.dbfea1b7.chunk.js",
     "index.html": "/dowellscaleforcollege/index.html",
     "main.a0f45dce.css.map": "/dowellscaleforcollege/static/css/main.a0f45dce.css.map",
-    "main.712e00a8.js.map": "/dowellscaleforcollege/static/js/main.712e00a8.js.map",
+    "main.a80289b5.js.map": "/dowellscaleforcollege/static/js/main.a80289b5.js.map",
     "453.dbfea1b7.chunk.js.map": "/dowellscaleforcollege/static/js/453.dbfea1b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0f45dce.css",
-    "static/js/main.712e00a8.js"
+    "static/js/main.a80289b5.js"
   ]
 }
