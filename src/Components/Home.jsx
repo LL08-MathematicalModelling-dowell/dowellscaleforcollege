@@ -1,5 +1,4 @@
-import React from 'react'
-import './HomePage.css'
+import './style.css'
 import Card from './Card'
 
 const HomePage = () => {
